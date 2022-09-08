@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 #¿how old are you?
 
 read -p "Enter you year of birth: " YEAR
